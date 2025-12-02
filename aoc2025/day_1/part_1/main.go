@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	password := ProcessFile("day_1_input.txt")
+	password := ProcessFile("../day_1_input.txt")
 	fmt.Println(password)
 }
 
